@@ -10,7 +10,7 @@
 - Follow token specs structure
 - List items should be added to the end of list
 - Optimize logo with https://kraken.io/web-interface
-- Logo should be added to `logo` folder (fingerprint_id.jpg name, JPG 256x256px)
+- Logo should be added to `logo` folder (name.png name, transparent JPG 600x600px)
 
 ## Token specs
 
